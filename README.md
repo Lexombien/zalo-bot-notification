@@ -1,12 +1,17 @@
-Plugin tạo ra bằng AI 
+Plugin tạo ra bằng AI
 Hỗ trợ thông báo đơn hàng cho WooCommerce về Zalo Bot
 
-Hướng dẫn : 
+Hướng dẫn :
 B1. Dùng điện thoại( hiện chỉ dùng đt để tạo BOT) tạo con BOT: https://bot.zapps.me/docs/create-bot/
+
 B2: Sau khi tạo Bot thì nó sẽ gửi về cái BOt Token -> Nhập vào plugin rồi lưu lại
+
 B3: Bấm nút tìm ID sau đó chat đại với BOT để nó tự lấy ID chat( ID chat này ko phải số điện thoại đâu, ai chta với Bot nó sẽ tạo ra ID riêng)
+
 Lưu ý: Có thể chia sẽ BOT cho người khác rồi thực hiện lại bước lấy ID( mỗi ID cách nhau bằng dấu ,) để BOt có thể gửi về nhiều tài khoản ZALO
+
 B4: Lưu lại rồi TEST thử nếu BOT nhắn tin trong ZALO thì đã thành công
+
 
 SETTING BOT
 
